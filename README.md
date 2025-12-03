@@ -5,6 +5,6 @@
 
 <h1 align="center">Lives and Bananite Editor</h1>
 
-Click on your bananite or lives count in Frontiers Legends to edit them to any value you want.
+<h3 align="center">Click on your bananite or lives count in Frontiers Legends to edit them to any value you want.</h1>
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme) 
