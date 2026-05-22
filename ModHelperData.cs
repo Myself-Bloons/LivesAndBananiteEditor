@@ -8,9 +8,7 @@ public static class ModHelperData
     public const string RepoOwner = "Myself-Bloons";
     public const string RepoName = "LivesAndBananiteEditor";
     public const string Author = "Myself";
-    public const string WorksOnVersion = "52.2";
+    public const string WorksOnVersion = "54.3";
     public const string DllName = "LivesAndBananiteEditor.dll";
     public const string Icon = "Icon.png";
 }
-
-
